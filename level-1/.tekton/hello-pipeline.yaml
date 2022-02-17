@@ -7,3 +7,6 @@ spec:
     - name: pipeline-hello-task
       taskRef:
         name: hello-task
+    - name: new-task
+      taskRef:
+        name: hello-task
