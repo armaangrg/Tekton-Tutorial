@@ -10,3 +10,6 @@ spec:
     - name: new-task
       taskRef:
         name: hello-task
+    - name: task2
+      taskRef:
+        name: task2
